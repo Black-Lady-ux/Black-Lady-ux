@@ -4,7 +4,7 @@
 <br>
 <br>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Black-Lady-ux&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=Black-Lady-ux&show_icons=true&theme=maroongold">
 </p>
 <br>
 <br>
@@ -33,5 +33,5 @@
 <br>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Lady-ux&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Lady-ux&layout=compact&theme=maroongold">
 </p>
