@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="tumblr_nc9hkucuyI1ro1ucvo1_500.gif">
+    <img src="https://i.imgur.com/rTtU4Tt.gif">
 </p>   
 <br>
 <br>
