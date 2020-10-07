@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="ezgif.com-gif-maker (1).gif">
+    <img src="tumblr_nc9hkucuyI1ro1ucvo1_500.gif">
 </p>   
 <br>
 <br>
