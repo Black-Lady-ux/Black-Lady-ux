@@ -14,7 +14,7 @@
 
 <p align="center">
     <br>
-    Hi you, I'm just an apprentice developer and one I really like anime.</br>
+    Hi you, I'm just an apprentice developer and one I really like anime.😳</br>
     <br>
  
 <p align="center">
