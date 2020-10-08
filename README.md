@@ -14,7 +14,7 @@
 
 <p align="center">
     <br>
-    Hi you, I'm just an apprentice developer and one I really like anime.😳</br>
+    Hello, welcome to my Github.</br>
     <br>
  
 <p align="center">
