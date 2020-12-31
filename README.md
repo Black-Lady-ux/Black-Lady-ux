@@ -1,3 +1,3 @@
 <h1>𝗛𝗲𝗹𝗹𝗼 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲 💋</h1>
 <h3> I'm Nandeezy, a young developer new to the Web. (HTML5/CSS3) </h3>
-<img   src="https://camo.githubusercontent.com/8b5091caa1ff05e4715dc7b2dc899cadca03bfc6b3b411c20cc07b2f5116ac75/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d626c75656265727279>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Lady-ux&layout=compact&theme=blueberry">
