@@ -2,8 +2,7 @@
  
 <img src="https://media.giphy.com/media/7sJLQXDIL3vVu/giphy.gif">
 ───────────────────────────────────── <br> 
-
-
-<h3> I'm Nandeezy, a young developer new to the Web. (HTML5/CSS3) </h3>
+✌🏽Langages <br>
+<img src="https://cdn.discordapp.com/attachments/764544721678106654/801917803208638504/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d6666306430303f7374796c653d666c.png">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Lady-ux&layout=compact&theme=blueberry">
